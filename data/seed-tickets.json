@@ -1,0 +1,76 @@
+[
+  {
+    "id": "T-1041",
+    "subject": "Checkout returns HTTP 502 for Safari users",
+    "requester": "maya.chen@example.com",
+    "priority": "urgent",
+    "status": "open",
+    "assignee": "Maya Chen",
+    "createdMinutesAgo": 95
+  },
+  {
+    "id": "T-1042",
+    "subject": "Invoice PDF missing VAT number for EU customers",
+    "requester": "billing-team@example.com",
+    "priority": "high",
+    "status": "new",
+    "assignee": null,
+    "createdMinutesAgo": 300
+  },
+  {
+    "id": "T-1043",
+    "subject": "Password reset email delayed by more than 10 minutes",
+    "requester": "leon.park@example.com",
+    "priority": "normal",
+    "status": "pending",
+    "assignee": "Leon Park",
+    "createdMinutesAgo": 180
+  },
+  {
+    "id": "T-1044",
+    "subject": "CSV export drops accented characters",
+    "requester": "ana.silva@example.com",
+    "priority": "normal",
+    "status": "open",
+    "assignee": "Maya Chen",
+    "createdMinutesAgo": 240
+  },
+  {
+    "id": "T-1045",
+    "subject": "Add SSO login for contractor accounts",
+    "requester": "security@example.com",
+    "priority": "low",
+    "status": "new",
+    "assignee": null,
+    "createdMinutesAgo": 900
+  },
+  {
+    "id": "T-1046",
+    "subject": "Dashboard chart shows stale data after deploy",
+    "requester": "ops@example.com",
+    "priority": "high",
+    "status": "resolved",
+    "assignee": "Leon Park",
+    "createdMinutesAgo": 600,
+    "resolvedMinutesAgo": 420
+  },
+  {
+    "id": "T-1047",
+    "subject": "Duplicate charge on retry for annual plans",
+    "requester": "finance@example.com",
+    "priority": "urgent",
+    "status": "resolved",
+    "assignee": "Maya Chen",
+    "createdMinutesAgo": 1500,
+    "resolvedMinutesAgo": 1430
+  },
+  {
+    "id": "T-1048",
+    "subject": "Search does not match ticket IDs",
+    "requester": "support@example.com",
+    "priority": "low",
+    "status": "open",
+    "assignee": null,
+    "createdMinutesAgo": 60
+  }
+]
